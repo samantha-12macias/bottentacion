@@ -1,0 +1,11 @@
+{
+  "bienvenida": {
+    "1347071829331673088": {
+      "titulo": "bienvenid@ {username} a {servername}",
+      "descripcion": "hola {mencion} estamos muy emocionados por tenerte aqui",
+      "color": "#FF0000",
+      "imagen": "https://cdn.discordapp.com/attachments/1347072532083118100/1347098523887210576/8C939FA4-4EF2-4F57-AEE1-40BF18ED7D23.gif?ex=67ca96c3&is=67c94543&hm=3e1c439c8d5b7b58955a3cac42a888086980ca1390c84e7173dceca2c8b3fc21&"
+    }
+  },
+  "despedida": {}
+}

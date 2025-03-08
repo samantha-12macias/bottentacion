@@ -1,0 +1,36 @@
+[
+  {
+    "messageId": "1347345476323643426",
+    "channelId": "1347072618527723550",
+    "guildId": "1347071829331673088",
+    "premio": "una coca",
+    "ganadores": 1,
+    "finalizaEn": 1741302653678,
+    "creadorId": "847164617763455017",
+    "finalizado": true,
+    "participantes": [],
+    "buttonId": "sorteo_participar_1741302593679"
+  },
+  {
+    "messageId": "1347347600600207403",
+    "channelId": "1347080698422628445",
+    "guildId": "1347071829331673088",
+    "premio": "mil quinientos",
+    "ganadores": 1,
+    "finalizaEn": 1741303158743,
+    "creadorId": "847164617763455017",
+    "finalizado": true,
+    "participantes": [],
+    "buttonId": "sorteo_participar_1741303098744"
+  },
+  {
+    "messageId": "1347354588952399902",
+    "channelId": "1347080698422628445",
+    "guildId": "1347071829331673088",
+    "premio": "uno Ó",
+    "ganadores": 1,
+    "finalizaEn": 1741304826148,
+    "creadorId": "847164617763455017",
+    "finalizado": true
+  }
+]
