@@ -1,6 +1,6 @@
 require('dotenv').config(); // Cargar variables de entorno
 require('events').EventEmitter.defaultMaxListeners = 50; // Aumentar límite de oyentes
-
+console.log("Token obtenido:", process.env.TOKEN);
 const fs = require('fs'); // 📌 Agregar fs para manejar archivos
 const schedule = require('node-schedule'); // 📌 Agregar node-schedule para programación de mensajes
 const { Client, GatewayIntentBits, PermissionsBitField, EmbedBuilder, Collection, REST, Routes, SlashCommandBuilder } = require('discord.js');
